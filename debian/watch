@@ -1,0 +1,5 @@
+# Compulsory line, this is a version 4 file
+version=4
+
+# PyPI
+https://pypi.debian.net/Cerberus/Cerberus-(.+)\.(?:zip|tgz|tbz|txz|(?:tar\.(?:gz|bz2|xz)))

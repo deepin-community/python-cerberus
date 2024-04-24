@@ -1,0 +1,15 @@
+Document: python-cerberus
+Title: Python Cerberus documentation
+Author: Nicola Iarocci
+Abstract: This is the manual for python-cerberus.
+ Cerberus provides powerful yet simple and lightweight data
+ validation functionality out of the box and is designed to be
+ easily extensible, allowing for custom validation.
+Section: Programming/Python
+
+Format: HTML
+Index: /usr/share/doc/python-cerberus-doc/html/index.html
+Files:
+ /usr/share/doc/python-cerberus-doc/html/*.html
+ /usr/share/doc/python-cerberus-doc/html/_sources/*
+ /usr/share/doc/python-cerberus-doc/html/_static/*
