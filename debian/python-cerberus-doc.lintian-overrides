@@ -1,0 +1,3 @@
+# These come from the alabaster library, and are unavoidable until the
+# python-alabaster package is fixed (see Bug #896114)
+python-cerberus-doc: privacy-breach-generic usr/share/doc/python-cerberus-doc/html/*
